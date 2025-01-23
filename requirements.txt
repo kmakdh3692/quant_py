@@ -1,0 +1,12 @@
+selenium==4.10.0
+webdriver_manager==3.8.6
+tiingo==0.14.0
+yahoo_fin==0.8.9.1
+xmltodict==0.13.0
+pandas_datareader==0.10.0
+riskfolio-lib==3.3.0
+bt==0.2.9
+schedule==1.1.0
+yfinance==0.2.18
+yahooquery==2.3.1
+pandas_ta==0.3.14b0
